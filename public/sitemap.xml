@@ -1,0 +1,13 @@
+
+	<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
+		<sitemap>
+					<loc>https://example.com/pages-sitemap.xml</loc>
+					<lastmod>2024-11-30T13:29:18.168Z</lastmod>
+				</sitemap>
+			<sitemap>
+					<loc>https://example.com/posts-sitemap.xml</loc>
+					<lastmod>2024-11-30T13:29:18.168Z</lastmod>
+				</sitemap>
+			
+	</sitemapindex>
+	
