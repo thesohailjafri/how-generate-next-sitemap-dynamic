@@ -84,10 +84,10 @@ async function generateSitemap() {
 		${sitemapUrls
       .map((url) => {
         return `<sitemap>
-					<loc>${url}</loc>
-					<lastmod>${new Date().toISOString()}</lastmod>
-				</sitemap>
-			`
+		<loc>${url}</loc>
+		<lastmod>${new Date().toISOString()}</lastmod>
+		</sitemap>
+		`
       })
       .join('')}
 	</sitemapindex>
